@@ -10,7 +10,7 @@ This folder contains all deliverables completed during **Course 1: Foundations o
 
 | File | Description |
 |------|-------------|
-| `professional-statement.docx` | Personal professional statement outlining my strengths, values, and career goals in cybersecurity — written following Google's professional statement framework |
+| `Professional statement-new.docx` | Personal professional statement outlining my strengths, values, and career goals in cybersecurity — written following Google's professional statement framework |
 
 ---
 

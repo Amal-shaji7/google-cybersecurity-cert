@@ -61,7 +61,7 @@ google-cybersecurity-cert/
 ### Professional Statement
 A structured professional statement developed as part of Course 1, outlining my strengths, values, and goals within the cybersecurity field. Written following Google's professional statement framework.
 
-📄 [View Professional Statement](./course-01-foundations/professional-statement.docx)
+📄 [View Professional Statement](./course-01-foundations/Professional Statement -new.docx)
 
 ---
 

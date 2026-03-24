@@ -41,9 +41,9 @@ google-cybersecurity-cert/
 │   ├── README.md
 │   └── botium-toys-security-audit/
 │       ├── README.md
-│       ├── audit-scope-and-goals.md
-│       ├── controls-compliance-checklist.md
-│       └── audit-findings-recommendations.md
+│       ├── audit-scope-and-goals.docx
+│       ├── controls-compliance-checklist.docx
+│       └── security-audit-report.md
 │
 ├── course-03-networks/                # Coming soon
 ├── course-04-linux-sql/               # Coming soon

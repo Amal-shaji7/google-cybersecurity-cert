@@ -39,7 +39,7 @@ recommendations
 |------|-------------|
 | `audit-scope-and-goals.docx` | Defined audit scope, goals, and current assets |
 | `controls-compliance-checklist.docx` | Full controls and compliance checklist with pass/fail evaluation and explanations |
-| `Security Audit Report.md` | Final structured audit report with risk-based findings and recommendations  |
+| `security-audit-report.md` | Final structured audit report with risk-based findings and recommendations  |
 
 ---
 

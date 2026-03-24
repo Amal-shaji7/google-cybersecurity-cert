@@ -61,7 +61,7 @@ google-cybersecurity-cert/
 ### Professional Statement
 A structured professional statement developed as part of Course 1, outlining my strengths, values, and goals within the cybersecurity field. Written following Google's professional statement framework.
 
-📄 [View Professional Statement](./course-01-foundations/Professional Statement -new.docx)
+📄 [View Professional Statement](./course-01-foundations/professional-statement.docx)
 
 ---
 
@@ -75,7 +75,7 @@ An internal security audit conducted on the fictional organisation **Botium Toys
 - Controls and compliance checklist evaluation — NIST CSF, PCI DSS, GDPR, SOC
 - Findings and remediation recommendations
 
-📁 [View Full Audit](./course-02-managing-security-risks/botium-toys-security-audit/)
+📁 [View Full Audit](./course-02-managing-security-risks/botium-toys-security-audit/security-audit-report.md)
 
 
 

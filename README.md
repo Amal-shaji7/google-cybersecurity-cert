@@ -18,9 +18,9 @@ Each folder corresponds to a course in the programme. Where applicable, complete
 | # | Course | Status |
 |---|--------|--------|
 | 1 | Foundations of Cybersecurity | ✅ Complete |
-| 2 | Play It Safe: Manage Security Risks | 🔄 In Progress |
-| 3 | Connect and Protect: Networks and Network Security | ⏳ Upcoming |
-| 4 | Tools of the Trade: Linux and SQL | ⏳ Upcoming |
+| 2 | Play It Safe: Manage Security Risks | ✅ Complete |
+| 3 | Connect and Protect: Networks and Network Security | ✅ Complete |
+| 4 | Tools of the Trade: Linux and SQL | 🔄 In Progress |
 | 5 | Assets, Threats, and Vulnerabilities | ⏳ Upcoming |
 | 6 | Sound the Alarm: Detection and Response | ⏳ Upcoming |
 | 7 | Automate Cybersecurity Tasks with Python | ⏳ Upcoming |
@@ -45,7 +45,28 @@ google-cybersecurity-cert/
 │       ├── controls-compliance-checklist.docx
 │       └── security-audit-report.md
 │
-├── course-03-networks/                # Coming soon
+├── course-03-networks/
+|   ├── README.md
+│   └── incident-response-report
+│       ├── README.md
+│       ├── icmp-dos-nist-csf-report.md
+│       └── nist-csf-report.docx
+|   └── tcpdump-traffic-analysis-1
+│       ├── README.md
+│       ├── dns-unreachable-report.md
+|       ├── tcpdump-lab.docx
+│       └── tcpdump-log.png
+|   └── tcpdump-traffic-analysis-2
+│       ├── README.md
+│       ├── brute-force-malware-report.md
+|       ├── tcpdump-lab-2.docx
+│       └── tcpdump-log.docx
+|   └── wireshark-traffic-analysis
+│       ├── README.md
+│       ├── syn-flood-analysis-report.md
+|       ├── wireshark-capture-xlsx
+│       └── wireshark-lab-docx
+|
 ├── course-04-linux-sql/               # Coming soon
 ├── course-05-assets-threats/         # Coming soon
 ├── course-06-detection-response/     # Coming soon

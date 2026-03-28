@@ -46,27 +46,26 @@ google-cybersecurity-cert/
 │       └── security-audit-report.md
 │
 ├── course-03-networks/
-|   ├── README.md
-│   └── incident-response-report
-│       ├── README.md
-│       ├── icmp-dos-nist-csf-report.md
-│       └── nist-csf-report.docx
-|   └── tcpdump-traffic-analysis-1
-│       ├── README.md
-│       ├── dns-unreachable-report.md
-|       ├── tcpdump-lab.docx
-│       └── tcpdump-log.png
-|   └── tcpdump-traffic-analysis-2
-│       ├── README.md
-│       ├── brute-force-malware-report.md
-|       ├── tcpdump-lab-2.docx
-│       └── tcpdump-log.docx
-|   └── wireshark-traffic-analysis
+│   ├── README.md
+│   ├── incident-response-report/
+│   │   ├── README.md
+│   │   ├── icmp-dos-nist-csf-report.md
+│   │   └── nist-csf-report.docx
+│   ├── tcpdump-traffic-analysis-1/
+│   │   ├── README.md
+│   │   ├── dns-unreachable-report.md
+│   │   ├── tcpdump-lab.docx
+│   │   └── tcpdump-log.png
+│   ├── tcpdump-traffic-analysis-2/
+│   │   ├── README.md
+│   │   ├── brute-force-malware-report.md
+│   │   ├── tcpdump-lab-2.docx
+│   │   └── tcpdump-log.docx
+│   └── wireshark-traffic-analysis/
 │       ├── README.md
 │       ├── syn-flood-analysis-report.md
-|       ├── wireshark-capture-xlsx
-│       └── wireshark-lab-docx
-|
+│       ├── wireshark-capture.xlsx
+│       └── wireshark-lab.docx
 ├── course-04-linux-sql/               # Coming soon
 ├── course-05-assets-threats/         # Coming soon
 ├── course-06-detection-response/     # Coming soon

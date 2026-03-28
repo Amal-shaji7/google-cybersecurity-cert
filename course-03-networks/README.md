@@ -12,10 +12,10 @@ Cybersecurity Professional Certificate.
 
 | Folder/File | Description |
 |-------------|-------------|
-| `tcpdump-traffic-analysis-1/` | tcpdump lab 1 — network traffic capture and analysis |
-| `wireshark-traffic-analysis/` | Wireshark — packet capture and deep packet inspection |
-| `tcpdump-traffic-analysis-2/` | tcpdump lab 2 — Brute force attack and malware redirect analysis |
 | `incident-response-report/` | NIST CSF-based incident response report — ICMP flood DoS attack |
+| `tcpdump-traffic-analysis-1/` | tcpdump lab 1 — network traffic capture and analysis |
+| `tcpdump-traffic-analysis-2/` | tcpdump lab 2 — Brute force attack and malware redirect analysis |
+| `wireshark-traffic-analysis/` | Wireshark — packet capture and deep packet inspection |
 ---
 
 ## Key Concepts Covered In This Course

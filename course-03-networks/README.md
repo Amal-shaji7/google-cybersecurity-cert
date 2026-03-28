@@ -13,8 +13,8 @@ Cybersecurity Professional Certificate.
 | Folder/File | Description |
 |-------------|-------------|
 | `tcpdump-traffic-analysis-1/` | tcpdump lab 1 — network traffic capture and analysis |
-| `tcpdump-traffic-analysis-2/` | tcpdump lab 2 — network traffic capture and analysis |
 | `wireshark-traffic-analysis/` | Wireshark — packet capture and deep packet inspection |
+| `tcpdump-traffic-analysis-2/` | tcpdump lab 2 — Brute force attack and malware redirect analysis |
 | `incident-response-report/` | NIST CSF-based incident response report — ICMP flood DoS attack |
 ---
 
@@ -92,14 +92,7 @@ preventing domain name resolution. Analysed UDP and ICMP
 packets to determine root cause and recommend next steps.
 
 📁 [View Analysis](./tcpdump-traffic-analysis-1/)
-
----
-### tcpdump — 
-  
-
-📁 [View Analysis](./tcpdump-traffic-analysis-2/)
-
-  
+ 
 ---
 
   
@@ -111,6 +104,19 @@ investigate network behaviour during a simulated scenario.
 📁 [View Analysis](./wireshark-traffic-analysis/)
 
 ---
+### tcpdump Lab 2 — Brute Force Attack & Malware Redirect
+Investigated a multi-stage attack on `yummyrecipesforme.com` 
+involving a brute force compromise of the admin account, 
+malicious JavaScript injection into the site source code, and 
+HTTP-based malware delivery redirecting users to a fake website. 
+Identified DNS and HTTP as the protocols involved and documented 
+the full attack chain through tcpdump log analysis.
+
+📁 [View Analysis](./tcpdump-traffic-analysis-2/)
+
+ 
+---
+
 
 ### Incident Response Report — ICMP Flood DoS Attack
 Analysed a DoS attack caused by an ICMP flood through an 

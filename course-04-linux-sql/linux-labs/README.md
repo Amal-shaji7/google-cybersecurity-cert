@@ -7,4 +7,4 @@ of least privilege using chmod and ls -la.
 
 | File | Description |
 |------|-------------|
-| `chmod-lab.md` | Full lab walkthrough with screenshots |
+| `file-management-lab.md` | Full lab walkthrough with screenshots |

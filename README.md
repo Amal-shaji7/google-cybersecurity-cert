@@ -20,8 +20,8 @@ Each folder corresponds to a course in the programme. Where applicable, complete
 | 1 | Foundations of Cybersecurity | ✅ Complete |
 | 2 | Play It Safe: Manage Security Risks | ✅ Complete |
 | 3 | Connect and Protect: Networks and Network Security | ✅ Complete |
-| 4 | Tools of the Trade: Linux and SQL | 🔄 In Progress |
-| 5 | Assets, Threats, and Vulnerabilities | ⏳ Upcoming |
+| 4 | Tools of the Trade: Linux and SQL | ✅ Complete |
+| 5 | Assets, Threats, and Vulnerabilities | 🔄 In Progress |
 | 6 | Sound the Alarm: Detection and Response | ⏳ Upcoming |
 | 7 | Automate Cybersecurity Tasks with Python | ⏳ Upcoming |
 | 8 | Put It to Work: Prepare for Cybersecurity Jobs | ⏳ Upcoming |

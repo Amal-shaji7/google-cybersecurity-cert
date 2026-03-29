@@ -63,7 +63,7 @@ first step before any modification.
 The first step is to examine the current state of 
 permissions across the file system using `ls -la`.
 
-![Checking existing permissions with ls -la](./screenshot-1.png)
+![Checking existing permissions with ls -la](./linux-screenshot1.png)
 ```bash
 ls -la
 ```
@@ -84,7 +84,7 @@ is based on what this output reveals.
 
 ## Step 2 — Change Read Permission on project_m.txt
 
-![Changing read permission on project_m.txt](./screenshot-2.png)
+![Changing read permission on project_m.txt](./linux-screenshot2.png)
 
 After reviewing the existing permissions, the read 
 permission on `project_m.txt` required adjustment to 
@@ -116,7 +116,7 @@ requirements.
 ## Step 3 — Remove Write Permission from User and Group,
 ## Add Read Permission to Group
 
-![Removing write from user and group, adding read to group](./screenshot-3.png)
+![Removing write from user and group, adding read to group](./linux-screenshot3.png)
 
 The existing permissions on this file granted write access 
 to both the user and the group — broader than what the 
@@ -144,7 +144,7 @@ between separate commands.
 
 ## Step 4 — Change Execute Permission on drafts Directory
 
-![Changing execute permission on drafts directory](./screenshot-4.png)
+![Changing execute permission on drafts directory](./linux-screenshot4.png)
 
 Execute permission on a directory controls whether a 
 user can navigate into it and access its contents. 
@@ -165,7 +165,7 @@ for other users.
 
 ## Step 5 — Review Hidden Files
 
-![Hidden files visible with ls -la](./screenshot-5.png)
+![Hidden files visible with ls -la](./linux-screenshot5.png)
 
 Hidden files — those beginning with a `.` prefix — do 
 not appear in a standard `ls` output. The `-a` flag 

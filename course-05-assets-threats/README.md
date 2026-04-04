@@ -39,10 +39,10 @@ Internal-only, Public
 - Principle of least privilege applied to assets
 
 ### Threats and Vulnerabilities
-- Threat modelling fundamentals
-- Threat categories — insider, external, APT, supply chain
-- Common attack vectors and threat categories
-- Physical attack vectors — USB drives, removable media
+- Threat categories — insider, external, APT,
+supply chain
+- Physical attack vectors — USB drives,
+removable media
 - Social engineering and human-based threats
 - Vulnerability assessment methodology
 
@@ -51,23 +51,18 @@ Internal-only, Public
 - Calculating risk priority for remediation planning
 - Communicating risk to stakeholders
 
-### Frameworks Applied
-- NIST CSF — Identify function
-- PASTA — Process for Attack Simulation and Threat
-Analysis
-- AAA framework — Authentication, Authorisation,
-Accounting
-
-**Access Controls — AAA Framework**
+### Access Controls — AAA Framework
 - Authentication, Authorisation, Accounting
 - Multi-factor authentication
 - Separation of duties
 
-**Threat Modelling**
-- PASTA framework — seven stage methodology
-- Connecting asset value, attacker motivation, and vulnerability
+### Threat Modelling
+- PASTA (Process for Attack Simulation and Threat
+Analysis) — seven stage methodology
+- Connecting asset value, attacker motivation,
+and vulnerability
 
-**Cryptography Fundamentals**
+### Cryptography Fundamentals
 - Symmetric vs asymmetric encryption
 - PKI and certificates
 - Hashing and data integrity

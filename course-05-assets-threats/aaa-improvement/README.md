@@ -22,7 +22,7 @@ systems and initiate a fraudulent bank transfer.
 | File | Description |
 |------|-------------|
 | `access-control-investigation.md` | Full investigation — event log analysis, threat identification, issues, and recommendations |
-| `accounting-exercise.docx` | Original spreadsheet — event log and employee directory |
+| `accounting-exercise.docx` | Original course submission document |
 | `accounting-exercise.xlsx` | Original spreadsheet — event log and employee directory |
 
 ---

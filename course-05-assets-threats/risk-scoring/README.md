@@ -22,7 +22,7 @@ score that guides remediation priority.
 | File | Description |
 |------|-------------|
 | `risk-scoring-assessment.md` | Risk register with scored likelihood, severity, and priority for each identified risk |
-| `risk-register.xlsx` | Original completed risk register spreadsheet |
+| `risk-register.docx` | Original completed risk register spreadsheet |
 
 ---
 

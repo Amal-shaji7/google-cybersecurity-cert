@@ -22,7 +22,7 @@ likelihood of recurrence.
 | File | Description |
 |------|-------------|
 | `data-handling-analysis.md` | Full analysis — issue identification, NIST AC-6 review, recommendations, and justification |
-| `data-leak-worksheet.xlsx` | Original completed worksheet |
+| `data-leak-worksheet.docx` | Original completed worksheet |
 
 ---
 

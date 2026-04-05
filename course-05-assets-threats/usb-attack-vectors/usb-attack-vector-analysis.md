@@ -36,7 +36,7 @@ employee shift schedules, both of which contain
 PII relating to hospital staff including names,
 roles, and working patterns that are not intended
 for public access.
-![USB drive contents](./usb-contents.png)
+![USB drive contents](./usb-content.png)
 
 ---
 

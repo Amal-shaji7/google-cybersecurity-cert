@@ -21,9 +21,9 @@ Each folder corresponds to a course in the programme. Where applicable, complete
 | 2 | Play It Safe: Manage Security Risks | ✅ Complete |
 | 3 | Connect and Protect: Networks and Network Security | ✅ Complete |
 | 4 | Tools of the Trade: Linux and SQL | ✅ Complete |
-| 5 | Assets, Threats, and Vulnerabilities | 🔄 In Progress |
-| 6 | Sound the Alarm: Detection and Response | ⏳ Upcoming |
-| 7 | Automate Cybersecurity Tasks with Python | ⏳ Upcoming |
+| 5 | Assets, Threats, and Vulnerabilities | ✅ Complete |
+| 6 | Sound the Alarm: Detection and Response | ✅ Complete |
+| 7 | Automate Cybersecurity Tasks with Python | 🔄 In Progress |
 | 8 | Put It to Work: Prepare for Cybersecurity Jobs | ⏳ Upcoming |
 | 9 | Capstone: Prepare for Cybersecurity Jobs | ⏳ Upcoming |
 
@@ -66,30 +66,36 @@ google-cybersecurity-cert/
 │       ├── syn-flood-analysis-report.md
 │       ├── wireshark-capture.xlsx
 │       └── wireshark-lab.docx
+│
 ├── course-04-linux-sql/
 │   ├── README.md
 │   ├── linux-labs/
 │   │   ├── README.md
 │   │   ├── file-management-lab.md
-│   │   ├── linux-screenshot1.png
-│   │   ├── linux-screenshot2.png
-│   │   ├── linux-screenshot3.png
-│   │   ├── linux-screenshot4.png
-│   │   └── linux-screenshot5.png
+│   │   └── (linux-screenshots 1-5).png
 │   └── sql-labs/
 │       ├── README.md
 │       ├── sql-filters-lab.md
-│       ├── sql-screenshot1.png
-│       ├── sql-screenshot2.png
-│       ├── sql-screenshot3.png
-│       ├── sql-screenshot4.png
-│       ├── sql-screenshot5.png
-│       └── sql-screenshot6.png
-├── course-05-assets-threats/         # Coming soon
-├── course-06-detection-response/     # Coming soon
-├── course-07-python-automation/       # Coming soon
-├── course-08-job-preparation/        # Coming soon
-└── course-09-capstone/               # Coming soon
+│       └── (sql-screenshots 1-6).png
+│
+├── course-05-assets-threats/
+│   ├── aaa-improvement/
+│   ├── asset-classification/
+│   ├── data-handling-practices/
+│   ├── pasta-threat-model/
+│   ├── risk-scoring/
+│   ├── usb-attack-vectors/
+│   ├── vulnerable-system-analysis/
+│   └── README.md
+│
+├── course-06-detection-response/
+│   ├── incident-handlers-journal.docx
+│   ├── incident-handlers-journal.md
+│   └── README.md
+│
+├── course-07-python-automation/        # Coming soon
+├── course-08-job-preparation/         # Coming soon
+└── course-09-capstone/                # Coming soon
 ```
 ---
 

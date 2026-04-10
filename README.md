@@ -23,8 +23,8 @@ Each folder corresponds to a course in the programme. Where applicable, complete
 | 4 | Tools of the Trade: Linux and SQL | ✅ Complete |
 | 5 | Assets, Threats, and Vulnerabilities | ✅ Complete |
 | 6 | Sound the Alarm: Detection and Response | ✅ Complete |
-| 7 | Automate Cybersecurity Tasks with Python | 🔄 In Progress |
-| 8 | Put It to Work: Prepare for Cybersecurity Jobs | ⏳ Upcoming |
+| 7 | Automate Cybersecurity Tasks with Python | ✅ Complete |
+| 8 | Put It to Work: Prepare for Cybersecurity Jobs | 🔄 In Progress|
 | 9 | Capstone: Prepare for Cybersecurity Jobs | ⏳ Upcoming |
 
 ---
@@ -93,7 +93,12 @@ google-cybersecurity-cert/
 │   ├── incident-handlers-journal.md
 │   └── README.md
 │
-├── course-07-python-automation/        # Coming soon
+├── course-07-python-automation/
+│   ├── python-file-update.md
+│   ├── (screenshot 1-8).png
+│   └── README.md
+│
+│
 ├── course-08-job-preparation/         # Coming soon
 └── course-09-capstone/                # Coming soon
 ```

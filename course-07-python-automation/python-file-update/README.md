@@ -23,7 +23,7 @@ and penetration testing roles.
 
 | Folder | Description |
 |--------|-------------|
-| `python-file-update/` | Portfolio activity — automated IP allow list management algorithm |
+| `python-file-update.md` | Portfolio activity — automated IP allow list management algorithm |
 
 ---
 

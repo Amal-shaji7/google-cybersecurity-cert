@@ -91,7 +91,7 @@ manipulation, iterative logic, and conditional
 evaluation — all applied to a real access
 control security task.
 
-📁 [View Project](./python-file-update/)
+📁 [View Project](./python-file-update.md)
 
 ---
 
